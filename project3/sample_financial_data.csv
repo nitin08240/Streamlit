@@ -1,0 +1,15 @@
+Date,Category,Description,Amount,Payment Method
+2024-01-02,Groceries,Walmart Superstore,-120.75,Credit Card
+2024-01-04,Utilities,Electricity Bill,-90.50,Bank Transfer
+2024-01-05,Entertainment,Netflix Subscription,-15.99,Credit Card
+2024-01-07,Transport,Uber Ride,-22.10,UPI
+2024-01-09,Shopping,Amazon Order - Headphones,-99.99,Credit Card
+2024-01-11,Groceries,Local Market,-45.00,Cash
+2024-01-13,Eating Out,McDonald's,-18.25,Credit Card
+2024-01-15,Entertainment,Spotify Premium,-9.99,Credit Card
+2024-01-18,Transport,Fuel,-52.40,Debit Card
+2024-01-20,Shopping,Zara Shirt,-75.00,Credit Card
+2024-01-22,Health,Pharmacy,-32.15,UPI
+2024-01-25,Eating Out,Starbucks,-12.80,Credit Card
+2024-01-27,Savings,Monthly Savings,+500.00,Bank Transfer
+2024-01-29,Income,Salary,+3000.00,Bank Transfer
